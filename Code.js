@@ -7,7 +7,7 @@ function myNewFunction() {
 }
 
 var array = [];
-for (let index = 0; index < array.length; index++) {
+for (var index = 0; index < array.length; index++) {
   const element = array[index];
 } //is a new function to all out there
 
