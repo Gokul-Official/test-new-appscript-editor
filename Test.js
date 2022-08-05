@@ -9,3 +9,5 @@ function trials(){
 function newTestClasp(){
   // this is my new test function
 }
+
+// this editor is owned by Gokul Gmail
