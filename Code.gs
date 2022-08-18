@@ -20,12 +20,12 @@ function getScriptToken(){
   console.log('token ====> ', token);
 }
 
-function gmail(){
-// this code is written from my gmail account
+function jivrus(){
+  // this function is return from my jivrus account
 }
 
-function jivrus(){
-  // this is my Jivrus Function
+function gmail(){
+  // this is my Gmail Function
 }
 
 //var array = [];
