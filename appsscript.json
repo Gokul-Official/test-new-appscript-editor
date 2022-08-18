@@ -2,5 +2,8 @@
   "timeZone": "Asia/Kolkata",
   "dependencies": {},
   "exceptionLogging": "STACKDRIVER",
+  "executionApi": {
+    "access": "ANYONE"
+  },
   "runtimeVersion": "DEPRECATED_ES5"
 }
