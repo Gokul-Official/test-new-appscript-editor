@@ -20,9 +20,8 @@ function getScriptToken(){
   console.log('token ====> ', token);
 }
 
-function gmail(){
-// this code is written from my gmail account
-
+function jivrus(){
+  // this function is return from my jivrus account
 }
 
 //var array = [];
