@@ -24,6 +24,10 @@ function jivrus(){
   // this function is return from my jivrus account
 }
 
+function gmail(){
+  // this is my Gmail Function
+}
+
 //var array = [];
 //for (var index = 0; index < array.length; index++) {
 //  const element = array[index];
