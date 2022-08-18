@@ -20,6 +20,11 @@ function getScriptToken(){
   console.log('token ====> ', token);
 }
 
+function gmail(){
+// this code is written from my gmail account
+
+}
+
 //var array = [];
 //for (var index = 0; index < array.length; index++) {
 //  const element = array[index];
