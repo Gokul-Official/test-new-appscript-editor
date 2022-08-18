@@ -10,5 +10,9 @@ function newTestClasp(){
   // this is my new test function
 }
 
+function newTestFunctionFormGmail(){
+  // New function from gmail
+}
+
 // comment from Domain Account
 // comment from Gmail
